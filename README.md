@@ -18,7 +18,7 @@
 ## 📊 GitHub Stats:
 <div align="center">
   <a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-streak-stats-pi-umber.vercel.app/?user=lin-0096" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-pi-umber.vercel.app/?user=lin-0096&theme=transparent&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly" alt="GitHub Streak" />
   </a>
   <br/><br/>
   <img src="https://github-readme-stats-brown-psi-79.vercel.app/api/top-langs/?username=lin-0096&theme=transparent&hide_border=false&layout=compact&count_private=true" alt="Top Languages" />
