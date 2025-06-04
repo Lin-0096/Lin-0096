@@ -9,12 +9,14 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
-<!--# 📊 GitHub Stats:
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Lin-0096&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Lin-0096&theme=cobalt&hide_border=false" alt="GitHub Streak" /><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-0096&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
-  </div>-->
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Lin-0096&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Lin-0096&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lin-0096&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Lin-0096&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
