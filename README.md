@@ -11,16 +11,17 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/svMquAMGkZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/linnnliu_ll) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lin-liu-00a161188) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:liulin0096@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lin-liu-00a161188) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:liulin0096@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/svMquAMGkZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/linnnliu_ll) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lin-0096&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=lin-0096&theme=transparent&hide_border=false" />
+  <img src="https://github-readme-stats-brown-psi-79.vercel.app/api/top-langs/?username=lin-0096&theme=transparent&hide_border=false&layout=compact&count_private=true" /><br>
+  <img src="https://github-readme-stats-brown-psi-79.vercel.app/api?username=lin-0096&theme=transparent&hide_border=false&count_private=true&include_all_commits=true&show_icons=true&hide_title=true" />
 </div>
+
 
 
 ---
