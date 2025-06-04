@@ -5,10 +5,14 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Lin-0096/Lin-0096/output/github-snake.svg" />
 </picture>
 
-
-
 ## 💫 About Me:
 🔭 I’m currently studying at HIVE Helsinki.<img src="sQic8pa6ga8PboWJSN.webp" width="150" alt="My gif" align="right" /><br>👯 I’m looking to collaborate on C projects.<br>🤝 I’m seeking guidance and support in mastering C.<br>🌱 I’m currently diving deep into learning C.<br>
+
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lin-liu-00a161188) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:liulin0096@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/svMquAMGkZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/linnnliu_ll) 
 
 ## 📊 GitHub Stats:
 <div align="center">
@@ -18,12 +22,6 @@
   <br/><br/>
   <img src="https://github-readme-stats-brown-psi-79.vercel.app/api/top-langs/?username=lin-0096&theme=transparent&hide_border=false&layout=compact&count_private=true" alt="Top Languages" />
 </div>
-
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lin-liu-00a161188) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:liulin0096@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/svMquAMGkZ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/linnnliu_ll) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lin-0096&icon=0&color=0)](https://visitcount.itsvg.in)
