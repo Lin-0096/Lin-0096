@@ -1,10 +1,9 @@
-# Hello World, I'm Lin 👋
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lin-0096/Lin-0096/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lin-0096/Lin-0096/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Lin-0096/Lin-0096/output/github-snake.svg" />
 </picture>
-
+# Hello World, I'm Lin 👋
 ## 💫 About Me:
 🔭 I’m currently studying at HIVE Helsinki.<img src="sQic8pa6ga8PboWJSN.webp" width="150" alt="My gif" align="right" /><br>👯 I’m looking to collaborate on C projects.<br>🤝 I’m seeking guidance and support in mastering C.<br>🌱 I’m currently diving deep into learning C.<br>
 
