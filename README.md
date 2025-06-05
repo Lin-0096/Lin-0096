@@ -12,7 +12,7 @@ My journey from Project Manager to a programming student reflects my passion for
 <img src="sQic8pa6ga8PboWJSN.webp" width="150" alt="My gif" align="right" />
 
 🌊 **Beyond Code**<br> 
-Swimmer 🏊‍♂️ | Yoga Practitioner 🧘‍♂️ | Believer in discipline & balance—both in debugging and life!<br>
+Swimmer 🏊‍♂️ | Yoga Practitioner 🧘‍♂️ | Discipline in code. Balance in life<br>
 
 Let’s connect and build something impactful!
 
