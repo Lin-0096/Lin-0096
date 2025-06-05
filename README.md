@@ -7,8 +7,7 @@
 # Hello World, I'm Lin 👋
 
 ## 💫 About Me:
-🚀 Code Enthusiast | Former Project Manager | Lifelong Learner
-🔭 I’m currently studying at HIVE Helsinki.<img src="sQic8pa6ga8PboWJSN.webp" width="150" alt="My gif" align="right" /><br>👯 I’m looking to collaborate on C projects.<br>🤝 I’m seeking guidance and support in mastering C.<br>🌱 I’m currently diving deep into learning C.<br>
+🚀 Code Enthusiast | Former Project Manager | Lifelong Learner<br>🔭 I’m currently studying at HIVE Helsinki.<img src="sQic8pa6ga8PboWJSN.webp" width="150" alt="My gif" align="right" /><br>👯 I’m looking to collaborate on C projects.<br>🤝 I’m seeking guidance and support in mastering C.<br>🌱 I’m currently diving deep into learning C.<br>
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
