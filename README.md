@@ -9,13 +9,12 @@
 ## 💫 About Me:
 🚀 **Code Enthusiast | Former Project Manager | Lifelong Learner**<br>I’m currently a student at 42 School, diving deep into low-level programming with C and C++. 
 My journey from Project Manager to a programming student reflects my passion for building systems from the ground up-combining my analytical mindset with hands-on coding skills.
-<img src="sQic8pa6ga8PboWJSN.webp" width="150" alt="My gif" align="right" />
 
 <br>🌊 **Beyond Code**<br> 
 Swimmer 🏊‍♂️ | Yoga Practitioner 🧘‍♂️ | Believer in discipline & balance—both in debugging and life!<br> 
 
 Let’s connect and build something impactful!
-
+<img src="sQic8pa6ga8PboWJSN.webp" width="150" alt="My gif" align="right" />
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
