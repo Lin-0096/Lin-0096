@@ -7,6 +7,7 @@
 # Hello World, I'm Lin 👋
 
 ## 💫 About Me:
+🚀 Code Enthusiast | Former Project Manager | Lifelong Learner
 🔭 I’m currently studying at HIVE Helsinki.<img src="sQic8pa6ga8PboWJSN.webp" width="150" alt="My gif" align="right" /><br>👯 I’m looking to collaborate on C projects.<br>🤝 I’m seeking guidance and support in mastering C.<br>🌱 I’m currently diving deep into learning C.<br>
 
 ## 💻 Tech Stack:
