@@ -9,7 +9,9 @@
 ## 💫 About Me:
 🚀 Code Enthusiast | Former Project Manager | Lifelong Learner<br>I’m currently a student at 42 School, diving deep into low-level programming with C and C++. 
 My journey from Project Manager to a programming student reflects my passion for building systems <img src="sQic8pa6ga8PboWJSN.webp" width="150" alt="My gif" align="right" />
-from the ground up, combining my analytical mindset with hands-on coding skills.<br>🌊 Beyond Code<br> 
+from the ground up, combining my analytical mindset with hands-on coding skills.
+
+<br>🌊 Beyond Code<br> 
 Swimmer 🏊‍♂️ | Yoga Practitioner 🧘‍♂️ | Believer in discipline & balance—both in debugging and life!<br> 
 
 Let’s connect and build something impactful!
