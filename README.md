@@ -11,7 +11,7 @@
 and I’m loving the challenge of building things from the ground up.
 <img src="sQic8pa6ga8PboWJSN.webp" width="150" alt="My gif" align="right" />
 
-🌊 **Beyond Code**<br> 
+🌊 **Outside Terminal**<br> 
 Swimmer 🏊‍♂️ | Yoga Practitioner 🧘‍♂️ | Discipline in code. Balance in life<br>
 
 Let’s connect and build something impactful!
