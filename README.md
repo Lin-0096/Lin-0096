@@ -14,7 +14,8 @@ and I’m loving the challenge of building things from the ground up. </div>
 <img src="sQic8pa6ga8PboWJSN.webp" width="150" alt="My gif" align="right" />
 
 🌊 **Outside Terminal**<br> 
-Swimmer 🏊‍♂️ | Yoga Practitioner 🧘‍♂️ | Discipline in code. Balance in life<br>
+<div>
+Swimmer 🏊‍♂️ | Yoga Practitioner 🧘‍♂️ | Discipline in code. Balance in life</div><br>
 
 Let’s connect and build something impactful!
 
