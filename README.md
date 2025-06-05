@@ -7,8 +7,10 @@
 # Hello World, I'm Lin 👋
 
 ## 💫 About Me:
-🚀 **Code Enthusiast | Former Project Manager | Lifelong Learner**<br>I’m currently studying at 42 School, getting my hands dirty with C and Unix system programming.<br>After years in project management, I decided to dive into the <br>world of code, 
-and I’m loving the challenge of building things from the ground up.
+🚀 **Code Enthusiast | Former Project Manager | Lifelong Learner**<br>
+<div>
+I’m currently studying at 42 School, getting my hands dirty with C and Unix system programming. After years in project management, I decided to dive into the world of code, 
+and I’m loving the challenge of building things from the ground up. </div>
 <img src="sQic8pa6ga8PboWJSN.webp" width="150" alt="My gif" align="right" />
 
 🌊 **Outside Terminal**<br> 
