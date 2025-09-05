@@ -9,13 +9,19 @@
 ## 💫 About Me:
 🚀 **Code Enthusiast | Former Project Manager | Lifelong Learner**<br>
 <div>
-I’m currently studying at 42 School, getting my hands dirty with C and Unix system programming. After years in project management, I decided to dive into the world of code, 
-and I’m loving the challenge of building things from the ground up. </div>
+🎒I’m currently studying at Hive Helsinki (42 Network) coding school </div>
+💻Getting my hands dirty with C and Unix system programming </div>
+
+📒After years in project management, I decided to dive into the world of code </div>
+
+I’m loving the challenge of building things from the ground up. </div>
 <img src="sQic8pa6ga8PboWJSN.webp" width="150" alt="My gif" align="right" />
 
 🌊 **Outside Terminal**<br> 
 <div>
- 🧘‍♂️ Discipline in code. Balance in life</div><br>
+ 🧘‍♂️🏊⛰️🚴 </div>
+ Discipline in code. Balance in life</div>
+ <br>
 
 Let’s connect and build something impactful!
 
