@@ -15,7 +15,7 @@ and I’m loving the challenge of building things from the ground up. </div>
 
 🌊 **Outside Terminal**<br> 
 <div>
-Swimmer 🏊‍♂️ | Yoga Practitioner 🧘‍♂️ | Discipline in code. Balance in life</div><br>
+ 🧘‍♂️ Discipline in code. Balance in life</div><br>
 
 Let’s connect and build something impactful!
 
